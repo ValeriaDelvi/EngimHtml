@@ -1,0 +1,32 @@
+:root{
+    --bg-nav:#14709b;
+}
+/* Commenti interni al codice */
+nav{
+    background-color:var(--bg-nav);
+}
+
+main{background-color: #d6411b;
+}
+
+aside {background-color: #6fd61b;
+}
+
+.primo {background-color: #9edcdf;
+    width: 200px;
+    height: 100px;
+}
+
+.secondo {background-color: #a32c89;
+    width: 200px;
+    height: 100px;
+}
+
+.terzo {background-color: #d6ba1b;
+    width: 200px;
+    height: 100px;
+}
+
+div{background-color: #d885bc;
+
+}
